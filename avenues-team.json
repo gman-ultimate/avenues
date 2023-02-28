@@ -1,12 +1,37 @@
 [
   {
     "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "title": "Specialist",
+    "body": "Helps the customer find the right product for their needs. Then, they can help the customer set it up."
   },
   {
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "title": "Business Expert",
+    "body": "Helps business professionals and entrepreneurs find products they need and assist them with configurating the products that their business uses."
+  },
+  {
+    "id": 3,
+    "title": "Technical Specialist",
+    "body": "Helps device owners get started with and troubleshoot their mobile devices."
+  },
+  {
+    "id": 4,
+    "title": "Creative",
+    "body": "Uses their knowledge of Apple devices to help people use their device and imagination to create. They have a background in the liberal arts."
+  },
+  {
+    "id": 5,
+    "title": "Creative Pro",
+    "body": "Creative Pros lead Today At Apple sessions and show the creative uses of Apple products and services. They are experts in a creative field."
+  },
+  {
+    "id": 6,
+    "title": "Genius",
+    "body": "Helps customers with technical issues and works to repair devices."
+  },
+  {
+    "id": 7,
+    "title": "Manager",
+    "body": "Leads a team of store employees and helps customers with escalated issues."
   }
 ]
