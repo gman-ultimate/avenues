@@ -1,12 +1,7 @@
 [
   {
-  	"id": 1,
+    "id": 1,
     "title": "Specialist",
-    "description": "Helps the customer find the right product for their needs. Then, they can help the customer set it up."
-  },
-  {
-  	"id": 2,
-    "title": "Specialist2",
-    "description": "Helps 2the customer find the right product for their needs. Then, they can help the customer set it up."
+    "body": "Helps the customer find the right product for their needs. Then, they can help the customer set it up."
   }
 ]
