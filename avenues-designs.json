@@ -1,7 +1,32 @@
 [
   {
     "id": 1,
+    "image": "Original.jpeg",
+    "title": "Original Store Design"
+  },
+  {
+    "id": 2,
+    "image": "Classic.jpeg",
+    "title": "Classic Store Design"
+  },
+  {
+    "id": 3,
+    "image": "ClassicReno.jpeg",
+    "title": "Renovated Store Design"
+  },
+  {
+    "id": 4,
     "image": "NSD.jpeg",
     "title": "New Store Design"
-  }
+  },
+  {
+    "id": 5,
+    "image": "NextGen.jpeg",
+    "title": "Next Generation Store Design"
+  },
+  {
+    "id": 6,
+    "image": "Specialty.jpg",
+    "title": "Specialty Store Design"
+  },
 ]
